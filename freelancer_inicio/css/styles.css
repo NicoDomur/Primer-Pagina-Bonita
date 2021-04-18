@@ -31,15 +31,6 @@ body{
 }
 /*Con lo de arriba hago que 1rem = 10px*/
 
-/*Scroll bonito*/
-.esperanzas,
-.nav-principal,
-.formulario {
-    scroll-snap-align: center;
-    scroll-snap-stop: always;
-}
-
-
 h1{
     font-size: 3.8rem;
 }
